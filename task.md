@@ -1,0 +1,48 @@
+# Book Creation: The Product Clarity
+
+## Current Scope Breakdown
+- [ ] Project Initialization
+  - [x] Create/Verify `index.md`, `glossary.md`, `mediaassets.md`, `qna.md`
+  - [x] Create comprehensive `README.md` with project context and structure
+- [ ] Preface/Introduction
+- [ ] Chapter 1: The Architecture of Chaos
+  - [x] Add Unit-wise plan to qna.md
+  - [x] Revise Section-wise hierarchy for Chapter 1 (Add Grandma's Closet)
+  - [x] Revise References/Sources (Add YC)
+  - [x] Draft Chapter 1 (Section by Section)
+    - [x] Sections 1.1 - 1.4 Drafted
+    - [x] Interactive QnA & References for 1.5, 1.6, 1.7
+    - [x] Draft Section 1.5
+    - [x] Draft Section 1.6
+    - [x] Draft Section 1.7
+  - [ ] Review & Refine Chapter 1
+  - [x] Review & Refine Chapter 1
+- [ ] Chapter 2: Coding the Product Genome
+  - [x] Interactive QnA for Sections 2.1 & 2.2
+  - [x] Agree on Section-wise hierarchy for Chapter 2
+    - Section 2.1: The Biological Metaphor
+    - Section 2.2: Purpose DNA (The Intent)
+    - Section 2.3: User DNA (The Problem)
+    - Section 2.4: Experience DNA (The Interface)
+    - Section 2.5: Architecture DNA (The Structure)
+  - [x] Agree on References/Sources
+  - [x] Draft Chapter 2 (Section by Section)
+    - [x] Draft Sections 2.1 - 2.5
+  - [x] **Cardinal Rule 16**: Expand Chapter 2 to 2500+ words (Incorporating ATS, Productivity App, and Conway Case Studies)
+  - [x] Review & Refine Chapter 2
+- [ ] Chapter 3: The Stage Gate Inspired Clarity Process
+  - [x] Interactive QnA for Chapter 3
+  - [x] Agree on Section-wise hierarchy for Chapter 3
+    - Section 3.1: The 4-Stage Engine (Intent, Blueprint, Forge, Evolution)
+    - Section 3.2: The Clarity Process API (Integration vs. Silo)
+    - Section 3.3: The Clarity Gates (Defense Mechanisms & Examples)
+    - Section 3.4: The Clarity Compass (The 4x4 Visual)
+  - [x] Agree on References/Sources
+  - [x] **Cardinal Rule 16**: Interactive QnA for Expansion (Deep dive frameworks & examples)
+  - [x] Agree on Chapter 2 & 3 Expansion Implementation Plan (Adding Case Studies & Visuals)
+  - [ ] Draft Chapter 3 (Section by Section)
+    - [ ] Draft Sections 3.1 - 3.4
+  - [ ] **Cardinal Rule 16**: Ensure Chapter 3 is 2500+ words
+  - [ ] Review & Refine Chapter 3
+- [ ] Subsequent Chapters... (Chapters 4 - 13)
+- [ ] Chapter 14: The Utopian Product (Perfect ERP for Education)
