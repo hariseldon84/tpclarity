@@ -45,9 +45,11 @@
 
 ### Section 3.1 & 3.3: The 4-Stage Engine & Clarity Gates
 - Cooper, R. G. (1990). "Stage-gate systems: a new tool for managing new products". *Business Horizons*, 33(3), 44-52.
+- Brooks, F. P. (1995). *The Mythical Man-Month: Essays on Software Engineering*. Addison-Wesley.
 
 ### Section 3.2: The Clarity Process API
 - Ries, E. (2011). *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses*. Crown Business.
 
 ### Section 3.4: The Clarity Compass
 - Meadows, D. H. (2008). *Thinking in Systems: A Primer*. Chelsea Green Publishing.
+- LeMay, M. (2017). *Product Management in Practice: A Real-World Guide to the Key Connective Role of the 21st Century*. O'Reilly Media.
