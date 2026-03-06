@@ -44,5 +44,13 @@
     - [x] Draft Sections 3.1 - 3.4
   - [x] **Cardinal Rule 16**: Ensure Chapter 3 is 2500+ words
   - [ ] Review & Refine Chapter 3
-- [ ] Subsequent Chapters... (Chapters 4 - 13)
+- [ ] Part II: The 4 Core DNAs
+  - [ ] Chapter 4: Purpose DNA
+    - [ ] Interactive QnA for Chapter 4 (Cardinal Rule 0)
+    - [ ] Agree on Section-wise hierarchy for Chapter 4 (Cardinal Rule 1)
+    - [ ] Agree on References/Sources (Cardinal Rule 2)
+    - [ ] Draft Chapter 4 (Section by Section)
+    - [ ] Ensure 2500+ words with deep case studies (Cardinal Rule 16)
+    - [ ] Review & Refine Chapter 4
+- [ ] Subsequent Chapters... (Chapters 5 - 13)
 - [ ] Chapter 14: The Utopian Product (Perfect ERP for Education)
